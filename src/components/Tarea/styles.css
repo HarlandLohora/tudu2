@@ -1,0 +1,17 @@
+.Tarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  margin: 5px 0;
+  text-align: left;
+}
+
+.Tarea:hover {
+  border-color: orange;
+  cursor: pointer;
+}
+
+.Tarea input {
+  margin-right: 15px;
+}

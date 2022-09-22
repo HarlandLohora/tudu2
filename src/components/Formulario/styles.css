@@ -1,0 +1,9 @@
+.Formulario {
+  display: flex;
+  flex-direction: column;
+}
+
+.Formulario input {
+  margin: 10px 0px;
+  padding: 10px;
+}
